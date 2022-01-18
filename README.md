@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Waris Quamer.
 - 👀 I’m interested in Machine Learning, NLP and speech processing.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning accent conversions and cross-lingual voice conversions
+- 📫 How to reach me ... Email: quamer.waris@tamu.edu
 
 <!---
 warisqr007/warisqr007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
