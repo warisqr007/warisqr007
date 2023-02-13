@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Waris Quamer.
 - 👀 I’m interested in Machine Learning, NLP and speech processing.
-- 🌱 I’m currently learning accent conversions and cross-lingual voice conversions
+- 🌱 I’m currently learning accent conversions and voice conversions
 - 📫 How to reach me ... Email: quamer.waris@tamu.edu
 
 <!---
